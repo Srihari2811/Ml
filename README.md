@@ -447,9 +447,9 @@ weighted avg       0.51      0.51      0.50      1345
 ```
 
 
-- Accuracy of the model on the testing data is approximately 0.499, which means the model correctly predicts the target variable for about 49.9% of the instances in the testing set.
+- Accuracy of the model on the testing data is approximately 0.507, which means the model correctly predicts the target variable for about 50.07% of the instances in the testing set.
 -  The average of metrics across all classes, weighted equally.
-- Model's accuracy is slightly below 50%, indicating that its predictive performance is not significantly better than random guessing.
+- Model's accuracy is  50%, indicating that its predictive performance.
 -  Random Forest model has been trained and evaluated, its performance is modest.
 
 
@@ -595,7 +595,7 @@ weighted avg       0.50      0.50      0.50      1345
 - The classification report offers detailed insights into the model's precision, recall, and F1-score for each class, facilitating a comprehensive understanding of its classification capabilities.
 - Support denotes the number of actual occurrences of each class in the testing set.
 - The classification report offers detailed insights into the model's precision, recall, and F1-score for each class, facilitating a comprehensive understanding of its classification capabilities.
-- Accuracy of support vector machine was 0.5003
+- Accuracy of support vector machine was 0.50
 
 ## Conclusion:
 1. In our prediction, we got Random Forest has highest accuracy.
