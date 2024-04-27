@@ -597,5 +597,10 @@ weighted avg       0.50      0.50      0.50      1345
 - The classification report offers detailed insights into the model's precision, recall, and F1-score for each class, facilitating a comprehensive understanding of its classification capabilities.
 - Accuracy of support vector machine was 0.5003
 
+## Conclusion:
+1. In our prediction, we got Random Forest has highest accuracy.
+2. Our accuracy was 50% only because the data was not good.
+3. we are assuming, we dont have factors that are highly influencing the target variable.
+
 
 
